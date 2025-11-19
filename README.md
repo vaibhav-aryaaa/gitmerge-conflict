@@ -1,1 +1,1 @@
-# gitmerge-conflict
+# update gitmerge-conflict Developer B
